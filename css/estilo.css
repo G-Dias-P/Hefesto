@@ -1,0 +1,57 @@
+*{
+    margin: auto;
+} 
+
+body{
+    background-color: #261D23;
+
+}
+
+#menu{
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    clear: both;
+}
+
+a{
+    color: white;
+    margin: 40px;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+a:hover{
+    color: #D9501E;
+}
+
+#rodape{
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    clear: both;
+}
+
+h4{
+    color: white;
+}
+
+.galeria{
+    width: 400px;
+    height: auto;
+    border: 1px solid white;
+    float: left;
+    margin: 10px 0px 20px 35px;
+}
+
+.galeria img{
+    width: 400px;
+    height: 300px;
+}
+
+.galeria:hover{
+    color: #D9501E;
+    border: 1px solid  ;
+}

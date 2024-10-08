@@ -1,0 +1,118 @@
+*{
+    margin: auto;
+} 
+
+body{
+    background-color: #261D23;
+
+}
+
+#menu{
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    clear: both;
+}
+
+a{
+    color: white;
+    margin: 40px;
+    text-decoration: none;
+    font-size: 18pt;
+}
+
+a:hover{
+    color: #D9501E;
+}
+
+img{
+    height: 500px;
+    width: auto;
+    margin: 10px;
+    border: solid 2px black;
+}
+
+h1{
+    color: #D9501E ;
+    font-style: italic;
+}
+
+h2{
+    color: #F2C744;
+    margin-bottom: 20px;
+}
+
+#biografia{
+    h2{
+        margin-left: 100px;
+    }
+    a{
+        margin: 20px 50px;
+        background-color: #D9501E;
+        border-radius: 10%;
+        color: black;
+    }
+
+    ul{
+        margin: 20px 100px;
+    }
+}
+
+p{
+    color: white;
+    margin: 20px 100px;
+    font-size: 18pt;
+    text-align: justify;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+ul{
+    color: white;
+    font-size: 18pt;
+    text-align: justify;
+    background-color: black;
+    padding-left: 50px;
+    border-radius: 10%;
+}
+
+h3{
+    text-align: center;
+}
+
+
+h4{
+    color: white;
+}
+
+#rodape{
+    background-color: black;
+    text-align: center;
+    height: 60px;
+    padding-top: 30px;
+    clear: both;
+}
+
+#contato{
+    img{
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;
+        border: solid 2px #F2C744;
+    }
+}
+
+#foto{
+    float: left;
+}
+
+#servico{
+    float: right;
+    padding: 40px 200px 0px 0px;
+
+    a{
+        margin-left: 0px;
+    }
+}
